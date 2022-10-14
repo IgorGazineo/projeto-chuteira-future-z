@@ -90,12 +90,23 @@ body {
 @media (max-width: 830px) {
     .right-side {
         margin-top: 30px;
-        height: 400px;
+        height: 40vh;
     }
     .left-side {
         text-align: center;
     }
 }
+
+@media (max-width: 330px) {
+    .right-side {
+        margin-top: 30px;
+        height: 20vh;
+    }
+    .left-side {
+        text-align: center;
+    }
+}
+
 
 
 
